@@ -21,7 +21,8 @@
 ## ⚡ Framtiden
 Jag ser fram emot att kombinera min tidigare erfarenhet från träningsbranschen  
 med min nya kompetens inom IT. Alltid haft en otrolig drivkraft och älskar att
-lära mig mer sä jag blickar mot framtiden med väldigt positiva ögon! 🚀  
+lära mig mer så jag blickar mot framtiden med väldigt positiva ögon och hoppas
+att vi hörs! 🚀  
 
 ---
 
