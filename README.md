@@ -1,8 +1,30 @@
-## Hej! 👋
+# Hej! 👋 Jag heter Susanna Carlsson  
 
-Jag heter Susanna Carlsson och studerar just nu Webbutveckling på Mittuniversitetet i Sundsvall, 100% distans så jag själv befinner mig i Göteborg (september 2025-juni 2027).
-- 🔭 Just nu är jag tjänstledig för mina studier efter 15 år i träningsbranschen där jag haft diverse ledarpositioner senaste 10 åren.
-- 🌱 Utbildningen fokuserar på teoretiska och praktiska färdigheter och har tydlig tyngdpunkt på webbutveckling med moderna hjälpmedel och språk. Vi lär oss både frontend- och backend-utveckling var för sig samt i kombination (fullstacks-utveckling). Vi lär oss/får arbeta med moderna ramverk och tekniker för utveckling och användande samt programmeringsspråken HTML, CSS, JavaScript/TypeScript och C#. Vi får också skapa och använda webbtjänster, använda olika ramverk samt lära oss att utveckla med webbaserade innehållssystem (CMS).
-- 📫 Kontakt: susanna.carlsson90@gmail.com / Linkedin: www.linkedin.com/in/susanna-carlsson
-- ⚡ Framtiden: I framtiden hoppas jag på att få applicera all arbetserfarenhet och kunskap från min tidigare bransch in i IT-branschen. Jag ser fram emot att omsätta min drivkraft in i en helt ny bransch och längtar efter att växa och lära mig mer. Min största passion i branschen vet jag inte ännu och det är ett kapitel i livet jag ser fram emot växer fram i takt med allt jag lär mig, än så länge är allt roligt och jag kan inte säga att jag har någon specialité.
+🎓 Studerar just nu **Webbutveckling** på Mittuniversitetet (2025–2027).  
+🌍 Läser på distans från Göteborg.  
 
+---
+
+## 🔭 Bakgrund
+- Tjänstledig för studier efter **15 år i träningsbranschen**.  
+- De senaste 12 åren har jag haft diverse **olika ledarpositioner**.  
+
+---
+
+## 🌱 På utbildningen lär jag mig
+- **Frontend & backend** (fullstack)  
+- **Programmeringsspråk:** HTML, CSS, JavaScript/TypeScript, C#  
+- **Ramverk & tekniker:** moderna webbramverk, CMS, webbtjänster  
+
+---
+
+## ⚡ Framtiden
+Jag ser fram emot att kombinera min tidigare erfarenhet från träningsbranschen  
+med min nya kompetens inom IT. Alltid haft en otrolig drivkraft och älskar att
+lära mig mer sä jag blickar mot framtiden med väldigt positiva ögon! 🚀  
+
+---
+
+## 📫 Kontakt
+- ✉️ **Mail:** [susanna.carlsson90@gmail.com](mailto:susanna.carlsson90@gmail.com)  
+- 💼 **LinkedIn:** [Susanna Carlsson](https://www.linkedin.com/in/susanna-carlsson)
